@@ -39,6 +39,13 @@ fun httpPost(url: String, data: String): String {
     return bufferedReader.readLine()
 }
 
+fun main(){
+    var url: String = "https://postman-echo.com/post"
+    var data: String = "/hi/there?hand=wave"
+    var response = httpPost(url, data)
+    println(response)
+}
+
 
 
 
