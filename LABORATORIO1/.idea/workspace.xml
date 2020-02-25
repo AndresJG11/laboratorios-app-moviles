@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0714308b-fa9d-4e20-976e-c7c48647b678" name="Default Changelist" comment="" />
+    <list default="true" id="0714308b-fa9d-4e20-976e-c7c48647b678" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LABORATORIO 2/CODE/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LABORATORIO 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LABORATORIO 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LABORATORIO 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XzlsOmOOgl81Czm3jurFpnJMkW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,72 +36,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LABORATORIO 2" />
   </component>
   <component name="RunManager">
-    <configuration name="LAB1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="LABORATORIO1.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+    <configuration name="LAB1.kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LAB1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="LABORATORIO1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="LABORATORIO1" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="LAB1.kt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <module name="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LAB1Kt" />
+        <item itemvalue="Kotlin.LAB1.kt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,10 +72,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582228032153">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="298" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582598205567">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="298" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582598205567" />
+    <state x="572" y="291" width="525" height="421" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582598203253">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="572" y="291" width="525" height="421" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582598203253" />
+    <state x="573" y="168" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582596709574">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582228032153" />
+    <state x="573" y="168" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1582596709574" />
     <state width="1324" height="216" key="GridCell.Tab.0.bottom" timestamp="1582059097615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -146,9 +117,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1324" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582059097616" />
-    <state x="366" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582225193057">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="450" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1582596682021">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="366" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582225193057" />
+    <state x="450" y="265" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582596682021" />
   </component>
 </project>
